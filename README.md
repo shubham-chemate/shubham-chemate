@@ -1,13 +1,8 @@
-# Hi there, I'm Shubham Chemate
-A Curious Software Engineer
+# Shubham Chemate
+Software Engineer
 
-I'm Currently
-- Working on a project - Notification System
-- Learning Go Language
-- Looking to contribute in Open Source Go Projects
-
-My Current Skillset
 ```
+Current Skillset
 Programming Languages: C, C++, Go, Python, Javascript, TypeScript, Java
 Backend System: Go, Java, Python, NodeJS
 Backend Framework: ExpressJS, NodeJS, Spring Boot
@@ -25,14 +20,6 @@ Frontend: HTML, CSS
 ```
 ![My Skills](https://skillicons.dev/icons?i=go,python,nodejs,mysql,mongodb,redis,docker,kafka,git,linux,html)
 
-On My Tech-Bucket List:
-```
-Programming Languages: Rust
-Programming Paradigm: Functional Programming
-Cloud: AWS
-```
-![My Skills](https://skillicons.dev/icons?i=rust,aws)
-
 Coding Profiles:
 - LeetCode [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)
 - Codeforces [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
@@ -43,4 +30,3 @@ I regularly write on medium [medium.com/@shubham320](https://medium.com/@shubham
 
 I'm always looking forward to disussions about tech.  
 Reach out to me: shubhamchemate3@gmail.com  
-Fun Fact: According to me, I can achieve what I think.
