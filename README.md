@@ -1,6 +1,4 @@
 # Shubham Chemate
-Software Engineer
-
 ```
 Current Skillset
 Programming Languages: C, C++, Go, Python, Javascript, TypeScript, Java
@@ -18,11 +16,8 @@ Text Editor: Visual Studio Code, IntelliJ (for Java)
 Containerization: Docker, Kubernetes
 Frontend: HTML, CSS
 ```
-![My Skills](https://skillicons.dev/icons?i=go,python,nodejs,mysql,mongodb,redis,docker,kafka,git,linux,html)
-
-Coding Profiles:
-- LeetCode [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)
-- Codeforces [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
+- LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)
+- Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
 
 I'm very active on linkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/).  
 Also on X(formerly twitter) [x.com/Shubham00320](https://x.com/Shubham00320).  
@@ -30,3 +25,5 @@ I regularly write on medium [medium.com/@shubham320](https://medium.com/@shubham
 
 I'm always looking forward to disussions about tech.  
 Reach out to me: shubhamchemate3@gmail.com  
+
+![My Skills](https://skillicons.dev/icons?i=go,python,nodejs,mysql,mongodb,redis,docker,kafka,git,linux,html)
