@@ -21,8 +21,8 @@ Containerization: Docker, Kubernetes
 Frontend: HTML, CSS
 ```
 -->
-- LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)
-- Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
+LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
+Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
 
 LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/).  
 X(formerly twitter) [x.com/Shubham00320](https://x.com/Shubham00320).  
