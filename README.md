@@ -32,4 +32,4 @@ I'm open for discussions.
 Email: shubhamchemate3@gmail.com  
 
 Work:  
-- Aditya Verma Dynamic Programming Playlist Implementations [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
+- Aditya Verma Dynamic Programming YouTube Playlist Implementations [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
