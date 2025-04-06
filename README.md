@@ -18,7 +18,7 @@ API Tools: Postman, Insomnia
 Vesion Control & CI/CD: GIT, Github, Gitlab
 Text Editor: Visual Studio Code, IntelliJ (for Java)
 Containerization: Docker, Kubernetes
-Frontend: HTML, CSS
+Frontend: HTML, CSS, XYZ Library
 ```
 -->
 LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
