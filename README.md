@@ -28,7 +28,7 @@ LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chem
 X/Twitter [x.com/Shubham00320](https://x.com/Shubham00320)  
 Medium [medium.com/@shubham320](https://medium.com/@shubham320)  
 
-I'm open for discussions.  
+I'm open for discussions,  
 Email: shubhamchemate3@gmail.com  
 
 Work:  
