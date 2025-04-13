@@ -1,11 +1,6 @@
 # Shubham Chemate
 <!---
 ```
-Languages: Go, C++ (For Data Structures and Algorithms), Python (For Scripting), Scheme/Lisp (Beginner Proficienty) 
-```
-```
-Current Skillset
-Programming Languages: C, C++, Go, Python, Javascript, TypeScript, Java
 Backend System: Go, Java, Python, NodeJS
 Backend Framework: ExpressJS, NodeJS, Spring Boot
 SQL Databases: MySQL, Oracle DB, SQL Server
@@ -33,3 +28,8 @@ Email: shubhamchemate3@gmail.com
 
 Work:  
 - Implementations of Aditya Verma Dynamic Programming YouTube Playlist [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
+
+<!---
+Languages - C++, Java, Python  
+Want to Learn - C, Go, Rust, Python-full fledged, Typescript, Javascript, One based on Pure Functional Programming
+-->
