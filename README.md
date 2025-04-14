@@ -31,5 +31,13 @@ Work:
 
 <!---
 Languages - C++, Java, Python  
-Want to Learn - C, Go, Rust, Python-full fledged, Typescript, Javascript, One based on Pure Functional Programming
+Want to Learn - C, Go, Rust, Python-full fledged, TS, JS, Lisp/similar
+  C++ - DSA
+  Object Oriented - Java
+  Web Applications - JS, TS
+  Scripting - Python
+  Concurrency - Go
+  Low Level - C++
+  Ownership - Rust
+  Purely Functional - LISP
 -->
