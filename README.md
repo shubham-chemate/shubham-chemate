@@ -40,4 +40,8 @@ Want to Learn - C, Go, Rust, Python-full fledged, TS, JS, Lisp/similar
   Low Level - C++
   Ownership - Rust
   Purely Functional - LISP
+
+Projects
+- Realtime Traffic on City Roads
+- Chunking Video to detect points of playing ad
 -->
