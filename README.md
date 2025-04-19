@@ -41,6 +41,9 @@ Want to Learn - C, Go, Rust, Python-full fledged, TS, JS, Lisp/similar
   Ownership - Rust
   Purely Functional - LISP
 
+Databases - MS SQL Server
+Want to Explore - Different Types like NoSQL/Time-Series/Map Reduce/Big Data, Postgres, Sqlite
+
 Projects
 - Realtime Traffic on City Roads
 - Chunking Video to detect points of playing ad
