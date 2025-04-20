@@ -16,6 +16,7 @@ Containerization: Docker, Kubernetes
 Frontend: HTML, CSS, XYZ Library
 ```
 -->
+
 LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
 Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
 
@@ -46,5 +47,5 @@ Want to Explore - Different Types like NoSQL/Time-Series/Map Reduce/Big Data, Po
 
 Projects
 - Realtime Traffic on City Roads
-- Chunking Video to detect points of playing ad
+- Chunking Video to detect points to play an ad
 -->
