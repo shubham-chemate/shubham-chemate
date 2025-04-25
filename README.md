@@ -17,18 +17,34 @@ Frontend: HTML, CSS, XYZ Library
 ```
 -->
 
-LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
-Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
-
 LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/)  
 X/Twitter [x.com/Shubham00320](https://x.com/Shubham00320)  
 Medium [medium.com/@shubham320](https://medium.com/@shubham320)  
 
-I'm open for discussions,  
-Email: shubhamchemate3@gmail.com  
+Please reach out to me over email at, shubhamchemate3@gmail.com  
 
-Work:  
+---
+
+LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
+Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
+
+*Highlights*  
 - Implementations of Aditya Verma Dynamic Programming YouTube Playlist [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
+
+<!--
+---
+
+All Work
+- RookieDB: Database Created while learning DBMS from Berkeley CS186 [Live]()
+- Ad Points Finder: Find the appropriate points to play an ad in a video [Live]()
+- Traffic Analyzer: Ranks most crowded areas in City
+- Implementations from Aditya Verma DP YT Playlist
+- DSA Topicwise Problems
+- Collection of Reasearch Papers I Read
+- Books I Read
+- 
+
+-->
 
 <!---
 Languages - C++, Java, Python  
@@ -43,7 +59,8 @@ Want to Learn - C, Go, Rust, Python-full fledged, TS, JS, Lisp/similar
   Purely Functional - LISP
 
 Databases - MS SQL Server
-Want to Explore - Different Types like NoSQL/Time-Series/Map Reduce/Big Data, Postgres, Sqlite
+Want to Explore - Different Types like NoSQL/Time-Series/Map Reduce/Big Data
+Learning Targets - rookieDB (Berkely CS), Sqlite, Postgres, DiceDB
 
 Projects
 - Realtime Traffic on City Roads
