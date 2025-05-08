@@ -16,25 +16,26 @@ Containerization: Docker, Kubernetes
 Frontend: HTML, CSS, XYZ Library
 ```
 -->
+## Social Profiles
 
-LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/)  
-X/Twitter [x.com/Shubham00320](https://x.com/Shubham00320)  
-Medium [medium.com/@shubham320](https://medium.com/@shubham320)  
+- LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/)  
+- X/Twitter [x.com/Shubham00320](https://x.com/Shubham00320)  
+- Medium [medium.com/@shubham320](https://medium.com/@shubham320)  
+- Please reach out to me over email at, shubhamchemate3@gmail.com  
 
-Please reach out to me over email at, shubhamchemate3@gmail.com  
 
----
+## Coding Profiles
 
-LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
-Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
+- LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
+- Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
 
-*Highlights*  
+
+## Work Highlights
 - Implementations of Aditya Verma Dynamic Programming YouTube Playlist [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
+- ..
 
 <!--
----
-
-All Work
+## All Work
 - RookieDB: Database Created while learning DBMS from Berkeley CS186 [Live]()
 - Ad Points Finder: Find the appropriate points to play an ad in a video [Live]()
 - Traffic Analyzer: Ranks most crowded areas in City
@@ -42,8 +43,7 @@ All Work
 - DSA Topicwise Problems
 - Collection of Reasearch Papers I Read
 - Books I Read
-- 
-
+- ..
 -->
 
 <!---
