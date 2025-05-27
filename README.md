@@ -65,4 +65,6 @@ Learning Targets - rookieDB (Berkely CS), Sqlite, Postgres, DiceDB
 Projects
 - Realtime Traffic on City Roads
 - Chunking Video to detect points to play an ad
+- Google Business Reviews Aggregator - Demonstration of AI
+- Payment Gateway Demonstration - Slot Booking Application
 -->
