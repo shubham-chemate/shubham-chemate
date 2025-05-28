@@ -67,4 +67,5 @@ Projects
 - Chunking Video to detect points to play an ad
 - Google Business Reviews Aggregator - Demonstration of AI
 - Payment Gateway Demonstration - Slot Booking Application
+- Leetcode compensation section is messy and it should have some filter for filtering out according to requiremet, preferably, YOE and Company, browser extension will be good idea
 -->
