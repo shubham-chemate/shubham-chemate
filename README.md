@@ -16,6 +16,18 @@ Containerization: Docker, Kubernetes
 Frontend: HTML, CSS, XYZ Library
 ```
 -->
+
+Hey there, I'm Shubham Chemate.  
+- I'm Backend and AI Engineer. Backend is my core strength and I spend unmeasurable time building backend systems.  
+- I explore all the technologies that fascinates me, but my core strength lies in go language.  
+- I love go langage by heart, actually I like almost everything about this language. I'm big fan of C and because of that go naturally resonates with me.  
+- In my full time job I work on distributed system which powers the business with as little as possible downtime.  
+- I've worked on some great projects in my 3 Years into the industry, before which I attended Pune Institute of Computer Technology for degree in Computer Science.  
+- In my free time I build applications or I would say tech solutions to problems that I encounter around me.  
+- I find AI fascinating and I thing it is one of the greatest things that human built, I'm finding time to learn Math behind AI.  
+- Apart from tech, I'm passionate about physical human capabilities, I try to push my physical limits.  
+
+
 ## Social Profiles
 
 - LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/)  
@@ -29,10 +41,11 @@ Frontend: HTML, CSS, XYZ Library
 - LeetCode Profile [leetcode.com/u/shubham320/](https://leetcode.com/u/shubham320/)  
 - Codeforces Profile [codeforces.com/profile/shubham320](https://codeforces.com/profile/shubham320)
 
-
+<!--
 ## Work Highlights
 - Implementations of Aditya Verma Dynamic Programming YouTube Playlist [link](https://github.com/shubham-chemate/Dynamic-Programming-Questions-by-Aditya-Verma)
 - ..
+-->
 
 <!--
 ## All Work
