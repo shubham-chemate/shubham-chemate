@@ -23,7 +23,7 @@ Hey there, I'm Shubham Chemate.
 - I love go language by heart, actually I like almost everything about this language. I'm big fan of C and because of that go naturally resonates with me.  
 - In my full time job I work on distributed system which powers the business with as little as possible downtime.  
 - I've worked on some great projects in my 3 Years into the industry, before which I attended Pune Institute of Computer Technology for degree in Computer Science.  
-- In my free time I build applications or I would say tech solutions to problems that I encounter (my recent weekend project [AI-Bill-Splitter](https://github.com/shubham-chemate/ai-bill-splitter)) or just experiment with cool techs (my recent favorite is [Temporal](https://github.com/temporalio/temporal)).  
+- In my free time I build applications or I would say tech solutions to problems that I encounter (my recent weekend project is [AI-Bill-Splitter](https://github.com/shubham-chemate/ai-bill-splitter)) or just experiment with cool techs (my recent favorite is [Temporal](https://github.com/temporalio/temporal)).  
 - I find AI fascinating and I thing it is one of the greatest things that human built, I'm finding time to learn Math behind AI.
 - As of now I've not adopted AI completely to do coding on my behalf, but for my personal projects I rely blindly on AI for UI tasks (I do vibe coding for that)
 - Apart from tech, I'm passionate about physical human capabilities, I try to push my physical limits.  
