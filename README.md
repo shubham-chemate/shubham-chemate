@@ -18,7 +18,7 @@ Frontend: HTML, CSS, XYZ Library
 -->
 
 Hey there, I'm Shubham Chemate.  
-- I'm Backend and AI Engineer. Backend is my core strength and I spend unmeasurable time building backend systems.  
+- I'm Backend and AI Engineer. Backend is my core strength and I spend unmeasurable time building & fixing backend systems.  
 - I explore all the technologies that fascinates me, but my core strength lies in go language.  
 - I love go language by heart, actually I like almost everything about this language. I'm big fan of C and because of that go naturally resonates with me.  
 - In my full time job I work on distributed system which powers the business with as little as possible downtime.  
