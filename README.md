@@ -17,7 +17,7 @@ Frontend: HTML, CSS, XYZ Library
 ```
 -->
 
-Hey there, I'm Shubham Chemate.  
+Hey there, I'm Shubham.  
 - I'm Backend and AI Engineer. Backend is my core strength and I spend unmeasurable time building & fixing backend systems.  
 - I explore all the technologies that fascinates me, but my core strength lies in go language.  
 - I love go language by heart, actually I like almost everything about this language. I'm big fan of C and because of that go naturally resonates with me.  
@@ -32,9 +32,9 @@ Hey there, I'm Shubham Chemate.
 ## Social Profiles
 
 - LinkedIn [linkedin.com/shubham-chemate](https://www.linkedin.com/in/shubham-chemate/) -- this is my Network   
-- X/Twitter [x.com/Shubham00320](https://x.com/Shubham00320) -- this is most realtime for my social updates  
+- X/Twitter [x.com/bitstobytes320](https://x.com/bitstobytes320) -- this is most realtime for my social updates  
 - Medium [medium.com/@shubham320](https://medium.com/@shubham320) -- sometimes I write here  
-- Please reach out to me over email at, shubhamchemate3@gmail.com  
+- Please reach out to me at, shubhamchemate3@gmail.com  
 
 
 ## Coding Profiles
